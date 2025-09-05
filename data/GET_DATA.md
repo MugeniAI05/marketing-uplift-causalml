@@ -2,7 +2,7 @@
 
 > ⚠️ The CSV is ~3.25GB. Do **not** commit it to Git.
 
-## Option A: Kaggle CLI
+### Option A: Kaggle CLI
 1. Install the Kaggle API and place your API token at `~/.kaggle/kaggle.json`.
 2. Run:
 ```bash
